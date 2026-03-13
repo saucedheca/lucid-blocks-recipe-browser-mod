@@ -30,3 +30,6 @@ the mood vector is calculated.
 - If all 6 slots are already filled and you click another item, the
   slots shift left (slot 1 is dropped, 2-6 move down, new item fills
   slot 6) so you can keep exploring combinations.
+
+## Installation
+Create a mods folder within lucid blocks directory and place Recipe_Browser_v0.1.pck inside.
