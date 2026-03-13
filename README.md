@@ -33,3 +33,6 @@ the mood vector is calculated.
 
 ## Installation
 Create a mods folder within lucid blocks directory and place Recipe_Browser_v0.1.pck inside.
+
+## Notes
+Press enter after changing an item quantity.
